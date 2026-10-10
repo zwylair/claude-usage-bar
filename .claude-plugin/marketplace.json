@@ -1,0 +1,13 @@
+{
+  "name": "claude-usage-bar",
+  "description": "Rate-limit and context meters for Claude Code",
+  "owner": {
+    "name": "Zwylair"
+  },
+  "plugins": [
+    {
+      "name": "usage-bar",
+      "source": "./"
+    }
+  ]
+}
