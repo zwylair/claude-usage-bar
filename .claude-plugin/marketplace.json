@@ -1,6 +1,6 @@
 {
   "name": "claude-usage-bar",
-  "description": "Rate-limit and context meters for Claude Code",
+  "description": "Rate-limit meters for Claude Code",
   "owner": {
     "name": "Zwylair"
   },

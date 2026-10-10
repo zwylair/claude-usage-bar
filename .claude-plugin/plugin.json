@@ -1,7 +1,7 @@
 {
   "name": "usage-bar",
-  "version": "0.1.0",
-  "description": "Compact rate-limit (5h / weekly) and context-fill meters above the prompt",
+  "version": "0.2.0",
+  "description": "Compact rate-limit (5h / weekly) meters above the prompt",
   "types": "./types/index.d.ts",
   "author": {
     "name": "Zwylair"
